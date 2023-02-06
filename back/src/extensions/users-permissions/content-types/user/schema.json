@@ -85,6 +85,30 @@
     },
     "online": {
       "type": "boolean"
+    },
+    "Vision": {
+      "type": "boolean"
+    },
+    "Mission": {
+      "type": "boolean"
+    },
+    "POA": {
+      "type": "boolean"
+    },
+    "SOP": {
+      "type": "boolean"
+    },
+    "Budget": {
+      "type": "boolean"
+    },
+    "BrandGuidelines": {
+      "type": "boolean"
+    },
+    "InvestorDeck": {
+      "type": "boolean"
+    },
+    "TargetAudience": {
+      "type": "boolean"
     }
   }
 }
